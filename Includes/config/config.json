@@ -1,0 +1,18 @@
+{
+    "input_path_unit": "Data\\Units_use.csv",
+    "input_path_charges": "Data\\Charges_use.csv",
+    "input_path_endorse": "Data\\Endorse_use.csv",
+    "input_path_restrict": "Data\\Restrict_use.csv",
+    "input_path_damages": "Data\\Damages_use.csv",
+    "input_path_primary_person": "Data\\Primary_Person_use.csv",
+    "output_path_analysis1": "output\\",
+    "output_path_analysis2": "output\\",
+    "output_path_analysis3": "output\\",
+    "output_path_analysis4": "output\\",
+    "output_path_analysis5": "output\\",
+    "output_path_analysis6": "output\\",
+    "output_path_analysis7": "output\\",
+    "output_path_analysis8": "output\\",
+    "output_path_analysis9": "output\\",
+    "output_path_analysis10": "output\\"
+}
